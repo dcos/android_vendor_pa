@@ -33,3 +33,4 @@ add_lunch_combo pa_vs980-userdebug
 add_lunch_combo pa_xt907-userdebug
 add_lunch_combo pa_xt925-userdebug
 add_lunch_combo pa_xt926-userdebug
+add_lunch_combo pa_p880-userdebug
